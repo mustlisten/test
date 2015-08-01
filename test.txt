@@ -1,11 +1,9 @@
 sadf assadfasdffasfasfsaf
 sf
-<<<<<<< HEAD
 sadfassafsafasfdasffafdsfasaf
 ===sdfasdfsaf====
 =======
 sadfasdfafdsfasaf
->>>>>>> f045b410ed010d8073dbbd7ccb4347e967ca2602
 
 hihihihi
 
