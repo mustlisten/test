@@ -1,7 +1,11 @@
 sadf assadfasdffasfasfsaf
 sf
+<<<<<<< HEAD
 sadfassafsafasfdasffafdsfasaf
 ===sdfasdfsaf====
+=======
+sadfasdfafdsfasaf
+>>>>>>> f045b410ed010d8073dbbd7ccb4347e967ca2602
 
 hihihihi
 
@@ -10,6 +14,9 @@ fjkfdjk
 
 wai edi123sfsadfasf1231232ted sth13212313
 ====asdfasfasfdsadfasfsaf===
+=======
+wai edi1231231232ted sth13212313
+
 fjkfdjkt
 tom15:55
 wai edi1231231232ted sth13212313
@@ -21,6 +28,9 @@ wai edi1231231232ted sth13212313
 wai edi1231231232ted sth13212313
 wai edi1231231232ted sth13212313
 wai edi1231231232ted sth13212313
+
+
+wai edited 2nd time
 
 
 
