@@ -13,7 +13,10 @@ development
 dev2
 +1
 <<<<<<< HEAD
+<<<<<<< HEAD
 +2
 +3
+=======
+>>>>>>> parent of 8d6458a... +2
 =======
 >>>>>>> parent of 8d6458a... +2
