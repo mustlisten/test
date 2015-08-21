@@ -12,5 +12,8 @@ fjkfdjk
 development
 dev2
 +1
+<<<<<<< HEAD
 +2
 +3
+=======
+>>>>>>> parent of 8d6458a... +2
